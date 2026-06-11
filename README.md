@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
   Hi, I'm Manuel Emilio Arias 👋
 </h1>
