@@ -7,7 +7,7 @@ Data & AI Professional • Analytics • Data Engineering • Machine Learning
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+%26+Automation+Technician;Computer+Science+Engineering+Student;Building+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+Databricks;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+%26+Scientist - +Data Analytics ;Computer+Science+Engineering+Student;Building+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+Databricks;Always+Learning+Something+New" />
 </p>
 
 ---
