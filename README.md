@@ -3,82 +3,121 @@
 </h1>
 
 <h3 align="center">
-Data & AI Professional • Analytics • Data Engineering • Machine Learning
+Data Scientist • Data Analyst
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Data+%26+Scientist - +Data Analytics ;Computer+Science+Engineering+Student;Building+Data-Driven+Solutions;Python+%7C+SQL+%7C+Power+BI+%7C+Databricks;Always+Learning+Something+New" />
+Analytics • Machine Learning • Data Engineering
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Data+Scientist;Data+Analyst;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Databricks;Turning+Data+Into+Business+Insights" />
 </p>
 
 ---
 
 ## 👨🏻‍💻 About Me
 
-I'm a **Data & AI Professional** passionate about transforming raw data into meaningful business insights.
+I'm a **Data Scientist** and **Data Analyst** passionate about transforming data into actionable business insights.
 
-Currently, I work as a **Data & Automation Technician at Fresenius Kabi Medical**, where I analyze operational data, automate workflows, develop KPIs, monitor data quality, and support business decisions through analytics.
+Currently, I work at **Fresenius Kabi Medical**, where I analyze operational data, automate workflows, develop KPIs, monitor data quality, and support business decision-making through analytics.
 
-Alongside my professional experience, I'm pursuing a **Computer Science Engineering** degree while continuously expanding my expertise in **Data Analytics, Data Engineering, Business Intelligence, and Machine Learning**.
+I'm pursuing a **Computer Science Engineering** degree while continuously expanding my expertise in **Data Science, Data Engineering, Machine Learning, Business Intelligence, and Artificial Intelligence**.
 
 ---
 
 ## 🚀 Current Focus
 
 - 📊 Data Analytics
+- 🤖 Data Science
 - ⚙️ Data Engineering
-- 🤖 Machine Learning
+- 🧠 Machine Learning
 - 📈 Business Intelligence
-- 🐍 Python Automation
+- 🐍 Python Development
 - ☁️ Databricks
-- 🗄 SQL Optimization
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+## Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
 
-### Data Engineering
+<img src="https://skillicons.dev/icons?i=python,r,cpp,cs"/>
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge)
-![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-2563EB?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-1D4ED8?style=for-the-badge)
-
-### Analytics & BI
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+</p>
 
 ---
 
-## 📂 Featured Projects
+## Data & AI
 
-| Project | Technologies | Description |
-|----------|-------------|-------------|
-| 📦 Inventory Segmentation & Profit Optimization | Python • SQL • Databricks | Inventory segmentation, ETL processes and profitability optimization. |
-| ⚙️ Data Engineering Pipeline | Python • SQL • SQLite | End-to-end ETL pipeline for data ingestion, transformation and reporting. |
-| 📊 Business Intelligence Dashboard | Power BI | Interactive dashboards and KPI monitoring for business decision-making. |
-| 🤖 Machine Learning & Predictive Analytics | Python • R | Predictive models focused on practical business applications. |
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+</p>
 
 ---
 
-## 📈 GitHub Analytics
+## Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+| Project | Stack | Description |
+|----------|-------|-------------|
+| 📦 **Inventory Segmentation & Profit Optimization** | Python • SQL • Databricks | ETL pipeline, feature engineering, inventory segmentation and profitability optimization. |
+| ⚙️ **Data Engineering Pipeline** | Python • SQL • SQLite | End-to-end ETL pipeline with automated reporting and data transformation. |
+| 📊 **Business Intelligence Dashboard** | Power BI | Interactive dashboards, KPI tracking and executive reporting. |
+| 🤖 **Machine Learning & Predictive Analytics** | Python • R | Predictive models focused on real business problems and decision making. |
+
+---
+
+# 💼 Professional Experience
+
+### Data & Automation Technician
+
+**Fresenius Kabi Medical**
+
+📍 Dominican Republic
+
+**May 2025 – Present**
+
+- Analyze real-time operational data.
+- Develop KPIs and business metrics.
+- Automate workflows using Python.
+- Monitor data quality and integrity.
+- Perform ETL processes and data transformation.
+- Support operational decision-making through analytics.
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -96,32 +135,42 @@ Alongside my professional experience, I'm pursuing a **Computer Science Engineer
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- Build scalable Data Engineering solutions
-- Create impactful Business Intelligence dashboards
-- Develop production-ready Machine Learning projects
-- Contribute to open-source projects
-- Grow as a Data Engineer & Analytics Professional
+- 🚀 Become a world-class Data Scientist.
+- 📊 Build impactful analytics solutions.
+- ⚙️ Design scalable Data Engineering pipelines.
+- 🤖 Develop production-ready Machine Learning systems.
+- 🌎 Work remotely with international technology companies.
 
 ---
 
-## 🌎 Let's Connect
+# 🌐 Let's Connect
 
-🌐 **Portfolio** *(Coming Soon)*  
-➡️ **manuelarias.dev**
+<p align="center">
 
-💼 LinkedIn  
-https://www.linkedin.com/in/manuel-emilio-arias-7b7118344
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-📧 Email  
-manuelemilioariasdionicio@gmail.com
+<a href="https://github.com/emilioarias-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manuel-emilio-arias-7b7118344">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:manuelemilioariasdionicio@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
 
-> *"Turning data into decisions through Analytics, Data Engineering and AI."*
+### 💡 *"Turning data into decisions through Analytics, Data Science and Artificial Intelligence."*
 
 </p>
-```
