@@ -149,8 +149,8 @@ I'm pursuing a **Computer Science Engineering** degree while continuously expand
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://manuelarias.dev"/>
+<a href="https://manuelarias.dev">
+<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/emilioarias-dev">
