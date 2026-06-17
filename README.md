@@ -150,7 +150,7 @@ I'm pursuing a **Computer Science Engineering** degree while continuously expand
 <p align="center">
 
 <a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://manuelarias.dev"/>
 </a>
 
 <a href="https://github.com/emilioarias-dev">
