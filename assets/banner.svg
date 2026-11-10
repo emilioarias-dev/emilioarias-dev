@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Manuel Emilio Arias — Software Developer, Data and Analytics">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#111C33"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0.08"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#FFFFFF" fill-opacity="0.06"/>
+    </pattern>
+    <clipPath id="round"><rect width="1280" height="320" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1280" height="320" fill="url(#bg)"/>
+    <rect width="1280" height="320" fill="url(#dots)"/>
+
+    <!-- data motif -->
+    <g>
+      <rect x="820"  y="214" width="26" height="46"  rx="3" fill="url(#bar)"/>
+      <rect x="862"  y="196" width="26" height="64"  rx="3" fill="url(#bar)"/>
+      <rect x="904"  y="206" width="26" height="54"  rx="3" fill="url(#bar)"/>
+      <rect x="946"  y="168" width="26" height="92"  rx="3" fill="url(#bar)"/>
+      <rect x="988"  y="180" width="26" height="80"  rx="3" fill="url(#bar)"/>
+      <rect x="1030" y="138" width="26" height="122" rx="3" fill="url(#bar)"/>
+      <rect x="1072" y="150" width="26" height="110" rx="3" fill="url(#bar)"/>
+      <rect x="1114" y="104" width="26" height="156" rx="3" fill="url(#bar)"/>
+      <rect x="1156" y="76"  width="26" height="184" rx="3" fill="url(#bar)"/>
+      <polyline points="833,200 875,182 917,192 959,154 1001,166 1043,124 1085,136 1127,90 1169,62"
+                fill="none" stroke="#93C5FD" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="1169" cy="62" r="6" fill="#0B1220" stroke="#93C5FD" stroke-width="2.5"/>
+      <line x1="800" y1="260" x2="1202" y2="260" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    </g>
+
+    <!-- identity -->
+    <text x="72" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#60A5FA" letter-spacing="1">~/emilioarias-dev</text>
+    <text x="70" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#F8FAFC" letter-spacing="-1.5">Manuel Emilio Arias</text>
+    <text x="72" y="212" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#CBD5E1">Software Developer  ·  Data &amp; Analytics</text>
+    <rect x="72" y="238" width="56" height="3" rx="1.5" fill="#3B82F6"/>
+    <text x="72" y="272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#94A3B8">Santo Domingo, Dominican Republic</text>
+  </g>
+</svg>
