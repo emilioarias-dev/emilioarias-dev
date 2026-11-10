@@ -1,176 +1,81 @@
-<h1 align="center">
-  Hi, I'm Manuel Emilio Arias 👋
-</h1>
-
-<h3 align="center">
-Data Scientist • Data Analyst
-</h3>
-
 <p align="center">
-Analytics • Machine Learning • Data Engineering
+  <img src="./assets/banner.svg" alt="Manuel Emilio Arias — Software Developer · Data & Analytics" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=800&lines=Data+Scientist;Data+Analyst;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Databricks;Turning+Data+Into+Business+Insights" />
+  <a href="https://manuelarias.dev"><img src="https://img.shields.io/badge/Portfolio-manuelarias.dev-0B1220?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/manuel-emilio-arias-7b7118344"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
+  <a href="mailto:manuelemilioariasdionicio@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-0B1220?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" /></a>
 </p>
 
----
+<br />
 
-## 👨🏻‍💻 About Me
+I build software and data systems that operations teams actually use.
 
-I'm a **Data Scientist** and **Data Analyst** passionate about transforming data into actionable business insights.
+I started in data — analytics, ETL, and automation inside a GMP-regulated manufacturing plant — and now work as a software developer shipping full-stack TypeScript. That mix is the point: I write the product *and* understand the data behind it.
 
-Currently, I work at **Fresenius Kabi Medical**, where I analyze operational data, automate workflows, develop KPIs, monitor data quality, and support business decision-making through analytics.
+<br />
 
-I'm pursuing a **Computer Science Engineering** degree while continuously expanding my expertise in **Data Science, Data Engineering, Machine Learning, Business Intelligence, and Artificial Intelligence**.
+## Now
 
----
+- **Associate Software Developer at Rivero** — building with Next.js, NestJS, Prisma, and PostgreSQL.
+- Leading the go-live of **riveroco.com**: one bilingual (EN/ES) corporate site that unifies three separate company websites and replaces the previous Webflow build.
+- Finishing a **B.S. in Computer Science Engineering** at PUCMM.
 
-## 🚀 Current Focus
+<br />
 
-- 📊 Data Analytics
-- 🤖 Data Science
-- ⚙️ Data Engineering
-- 🧠 Machine Learning
-- 📈 Business Intelligence
-- 🐍 Python Development
-- ☁️ Databricks
+## Experience
 
----
+**Associate Software Developer — Rivero**<br />
+<sub>Nov 2026 – Present · Remote</sub>
 
-# 🛠 Tech Stack
+- Full-stack development in TypeScript across a Next.js front end and a NestJS + Prisma + PostgreSQL back end.
+- Project lead for the riveroco.com website go-live (EN + ES).
+- Ticket-driven delivery with pull-request review, in an AI-assisted engineering workflow.
 
-## Languages
+**Data & Automation Technician — Fresenius Kabi Medical**<br />
+<sub>May 2025 – Present · Santo Domingo, Dominican Republic</sub>
 
-<p>
+- Built internal data and automation tools in Python, adopted by ~20 engineers and operations staff in a GMP-regulated environment.
+- Analyze real-time operational data and define the KPIs used for day-to-day decisions.
+- Own ETL, data transformation, and data-quality monitoring for operational reporting.
 
-<img src="https://skillicons.dev/icons?i=python,r,cpp,cs"/>
+<br />
 
-</p>
+## Stack
 
----
+| | |
+|---|---|
+| **Product engineering** | TypeScript · Next.js · React · NestJS · Prisma · PostgreSQL |
+| **Data & ML** | Python · SQL · Pandas · NumPy · scikit-learn · R · Databricks |
+| **BI & reporting** | Power BI · KPI design · Executive dashboards |
+| **Also comfortable in** | C# · C++ · MySQL · SQLite |
+| **Workflow** | Git · GitHub · Linear · Cursor · Jupyter · VS Code |
 
-## Data & AI
+<br />
 
-<p>
+## Selected work
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github"/>
+| Project | What it does | Stack |
+|---|---|---|
+| **Inventory Segmentation & Profit Optimization** | ETL pipeline, feature engineering, and inventory segmentation to surface profitability decisions. | Python · SQL · Databricks |
+| **Data Engineering Pipeline** | End-to-end ETL with data transformation and automated reporting. | Python · SQL · SQLite |
+| **Breast Cancer Classification** | ML classification pipeline on the Wisconsin Breast Cancer dataset, from EDA to model evaluation. | Python · scikit-learn |
+| **Business Intelligence Dashboard** | Interactive KPI tracking and executive reporting. | Power BI |
 
-</p>
+<br />
 
-<p>
+## Education
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+- **B.S. Computer Science Engineering** — PUCMM *(in progress)*
+- **Technical Degree in Data Analytics** — Universidad CENFOTEC
 
-</p>
+<sub>Spanish (native) · English (C1)</sub>
 
----
-
-## Development Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-| Project | Stack | Description |
-|----------|-------|-------------|
-| 📦 **Inventory Segmentation & Profit Optimization** | Python • SQL • Databricks | ETL pipeline, feature engineering, inventory segmentation and profitability optimization. |
-| ⚙️ **Data Engineering Pipeline** | Python • SQL • SQLite | End-to-end ETL pipeline with automated reporting and data transformation. |
-| 📊 **Business Intelligence Dashboard** | Power BI | Interactive dashboards, KPI tracking and executive reporting. |
-| 🤖 **Machine Learning & Predictive Analytics** | Python • R | Predictive models focused on real business problems and decision making. |
-
----
-
-# 💼 Professional Experience
-
-### Data & Automation Technician
-
-**Fresenius Kabi Medical**
-
-📍 Dominican Republic
-
-**May 2025 – Present**
-
-- Analyze real-time operational data.
-- Develop KPIs and business metrics.
-- Automate workflows using Python.
-- Monitor data quality and integrity.
-- Perform ETL processes and data transformation.
-- Support operational decision-making through analytics.
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=emilioarias-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilioarias-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=emilioarias-dev&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Become a world-class Data Scientist.
-- 📊 Build impactful analytics solutions.
-- ⚙️ Design scalable Data Engineering pipelines.
-- 🤖 Develop production-ready Machine Learning systems.
-- 🌎 Work remotely with international technology companies.
-
----
-
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="https://manuelarias.dev">
-<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/emilioarias-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/manuel-emilio-arias-7b7118344">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:manuelemilioariasdionicio@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+<br />
 
 ---
 
 <p align="center">
-
-### 💡 *"Turning data into decisions through Analytics, Data Science and Artificial Intelligence."*
-
+  <sub>Open to conversations about software, data, and the space where they meet.</sub>
 </p>
